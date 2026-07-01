@@ -36,20 +36,6 @@ Si desde el principio hubieras explicado tu objetivo, probablemente te habrían 
 
 ---
 
-## Otro ejemplo
-
-### Lo que preguntas
-
-> ¿Cómo puedo convertir una cadena a Base64?
-
-### Lo que realmente necesitas
-
-Quieres enviar un archivo por una API.
-
-Quizá la API acepta directamente archivos binarios y convertirlos a Base64 solo añade complejidad y sobrecoste.
-
----
-
 ## ¿Cómo evitar el problema XY?
 
 Cuando pidas ayuda:
@@ -64,11 +50,11 @@ Cuando pidas ayuda:
 
 ## Mal ejemplo
 
-> ¿Cómo elimino el último carácter de esta cadena?
+> ¿Cómo elimino los últimos tres caracteres de este texto? `miarchivo.pdf`
 
 ## Buen ejemplo
 
-> Necesito obtener el nombre del archivo sin la extensión. Había pensado en eliminar los últimos caracteres, pero no sé si existe una forma mejor.
+> Necesito obtener el nombre del archivo sin la extensión.
 
 ---
 
