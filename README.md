@@ -48,16 +48,6 @@ Cuando pidas ayuda:
 
 ---
 
-## Mal ejemplo
-
-> ¿Cómo elimino los últimos tres caracteres de este texto? `miarchivo.pdf`
-
-## Buen ejemplo
-
-> Necesito obtener el nombre del archivo sin la extensión.
-
----
-
 ## Si eres quien responde
 
 Cuando una pregunta parezca extraña:
